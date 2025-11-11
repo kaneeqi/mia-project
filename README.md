@@ -351,14 +351,6 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE).
 
 ---
 
-## 📞 Contacto
-
-- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
-- **Email**: tu-email@ejemplo.com
-- **Issues**: [Reportar problema](https://github.com/tu-usuario/mia-project/issues)
-
----
-
 <div align="center">
 
 **Hecho con ❤️ en Perú**

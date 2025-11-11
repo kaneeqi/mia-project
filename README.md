@@ -185,15 +185,15 @@ ELEVEN_LABS_VOICE_ID=EXAVITQu4vr4xnSDxMaL
 Los modelos deben estar en:
 ```
 backend/models/
-├── MiaMotion.h5     ← Detección de emoción
-└── MiaPredict.h5    ← Predicción de respuesta
+├── MiaMotion.pt     ← Detección de emoción
+└── MiaPredict.pt    ← Predicción de respuesta
 ```
 
 O en:
 ```
-mia-service/models/
-├── MiaMotion.h5
-└── MiaPredict.h5
+mia-service/
+├── MiaMotion.pt
+└── MiaPredict.pt
 ```
 
 ---

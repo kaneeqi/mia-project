@@ -1,11 +1,11 @@
-# 💖 MIA - Compañera Virtual Empática
+#  MIA - Compañera Virtual Empática
 
 **MIA** (Mi Inteligencia Artificial) es un agente conversacional empático en español que combina:
-- 🧠 Detección de emociones con IA (BERT)
-- 💬 Generación de respuestas contextuales (Groq/Llama)
-- 🎤 Síntesis de voz natural (ElevenLabs)
-- 👄 Lip-sync realista (Rhubarb)
-- 🎨 Avatar 3D animado (Three.js)
+-  Detección de emociones con IA (BERT)
+-  Generación de respuestas contextuales (Groq/Llama)
+-  Síntesis de voz natural (ElevenLabs)
+-  Lip-sync realista (Rhubarb)
+-  Avatar 3D animado (Three.js)
 
 ---
 

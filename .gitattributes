@@ -1,0 +1,26 @@
+# ==================== MIA PROJECT .gitattributes ====================
+
+# Establece el comportamiento por defecto para todos los archivos.
+# Git intentará adivinar si un archivo es de texto o binario.
+# Si es de texto, normalizará los finales de línea a LF en el repositorio.
+* text=auto
+
+# Para los archivos que sabes que son de texto, puedes ser explícito.
+# Esto asegura que siempre se traten como texto y se normalicen a LF.
+*.md      text
+*.py      text
+*.js      text
+*.jsx     text
+*.json    text
+*.html    text
+*.css     text
+*.txt     text
+.gitignore text
+.gitattributes text
+
+# Para archivos que deben mantener sus finales de línea originales (binarios).
+*.h5      -text
+*.png     -text
+*.jpg     -text
+*.glb     -text
+*.exe     -text
